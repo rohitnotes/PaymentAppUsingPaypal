@@ -185,3 +185,6 @@ Please read our [contributing guidelines](CONTRIBUTING.md) prior to submitting a
 ## License
 
 Please refer to this repo's [license file](LICENSE).
+
+## Reference
+https://github.com/paypal/PayPal-Android-SDK
